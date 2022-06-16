@@ -20,9 +20,9 @@ class EzSnap:
 
             print(f"{Fore.LIGHTMAGENTA_EX}Please modify the EzSnap settings which can be found in the settings.json file then save and press any key (If you don't want to use proxies, set proxies to None).")
 
-            self.logo()
-
             input()
+
+            self.logo()
 
         self.config = json.load(open("settings.json", encoding="utf-8"))
 
