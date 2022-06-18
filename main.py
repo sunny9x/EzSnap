@@ -1,5 +1,5 @@
 import requests, threading, random, string, re, os, json, ctypes
-from colorama import Fore, init; init(autoreset=True)
+from colorama import Fore, init; init(autoreset=True, convert=True)
 
 class EzSnap:
     def __init__(self):
