@@ -1,6 +1,6 @@
 <h1 align="center">EzSnap</h1>
 
-<h4 align="center">⛏️ The BEST Snapchat Account Generator</h4>
+<h4 align="center">📸 The BEST Snapchat Account Generator</h4>
 <h6 align="center">Made with passion by Frogy.</a></h6>
 
 ## Preview
@@ -11,8 +11,7 @@
 - Built-In Recaptcha Bypass
 - Proxy Support (HTTP, SOCKS4, SOCKS5)
 - MultiThreaded
-- Clean and Noob-Friendly UI
-- Clipsender is retarded 
+- Clean and Noob-Friendly UI 
 
 ## To Do List
 - Nothing for the moment, if you have a suggestion don't hesitate to open an issue and propose it!
@@ -21,7 +20,7 @@
 You can either use the compiled version (.exe) in releases or use the Python version by downloading the dependencies in the requirements.txt file first.
 
 ## About
-EzSnap is a script I made because I was bored and after I saw bad generators. I know it's not perfect and that's why I will take into account all your suggestions!
+EzSnap is a script I made because I was bored and after I saw a trash generator made by clipsender (after he saw my generator he immediately modified his like a fucking skid btw lmfao). I know it's not perfect and that's why I will take into account all your suggestions!
 
 <p align="center">
     <img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TurfuFrogy/EzSnap?style=for-the-badge&logo=stylelint&color=gold">
