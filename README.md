@@ -12,6 +12,7 @@
 - Proxy Support (HTTP, SOCKS4, SOCKS5)
 - MultiThreaded
 - Clean and Noob-Friendly UI
+- Clipsender is retarded 
 
 ## To Do List
 - Nothing for the moment, if you have a suggestion don't hesitate to open an issue and propose it!
