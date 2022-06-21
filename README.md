@@ -4,7 +4,7 @@
 <h6 align="center">Made with passion by Frogy.</a></h6>
 
 ## Preview
-[![EzSnap Showcase](https://i.imgur.com/dmw3OVM.png)](https://www.youtube.com/watch?v=_IAIUVQKl6I "EzSnap Showcase")
+[![EzSnap Showcase](https://i.imgur.com/qx9WFWQ.png)](https://www.youtube.com/watch?v=_IAIUVQKl6I "EzSnap Showcase")
 
 ## Features
 - Insane speed
