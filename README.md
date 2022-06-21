@@ -13,11 +13,11 @@
 - MultiThreaded
 - Clean and Noob-Friendly UI 
 
-## To Do List
-- Nothing for the moment, if you have a suggestion don't hesitate to open an issue and propose it!
-
 ## Usage
 You can either use the compiled version (.exe) in releases or use the Python version by downloading the dependencies in the requirements.txt file first.
+
+## To Do List
+- Nothing for the moment, if you have a suggestion don't hesitate to open an issue and propose it!
 
 ## About
 EzSnap is a script I made because I was bored and after I saw a trash generator made by clipsender (after he saw my generator he immediately modified his like a fucking skid btw lmfao). I know it's not perfect and that's why I will take into account all your suggestions!
