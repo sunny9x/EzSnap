@@ -13,7 +13,7 @@
 
 ---
 
-> If you enjoy my projects, please consider leaving a :star: in the top right on the repo :)
+> If you like my projects, please consider leaving a :star: at the top right of the repository :)
 
 # Features
 - Insane speed
