@@ -27,4 +27,4 @@
 
 ## FAQ
 - **Q: How to use EzSnap?**
-- A: You must first download the requirements with the command `pip install -r requirements.txt` and then follow the instructions after starting EzSnap with the command `python main.py`.
+- A: You must first download the requirements with the command `pip install -r requirements.txt` and then follow the instructions after starting EzSnap with the command `python main.py`. You can also run the downloadable executable directly from the [Releases](https://github.com/TurfuFrogy/EzSnap/releases).
