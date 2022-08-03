@@ -76,7 +76,7 @@ class EzSnap:
                 "http": self.config["proxiesUsage"]["proxies"],
                 "https": self.config["proxiesUsage"]["proxies"]
             })
-
+azad
             if getUsernames.text == "":
                 self.tLocker.acquire()
                 print(f"{Fore.LIGHTCYAN_EX}[#{threadId}] {Fore.LIGHTRED_EX}Unable to retrieve username sugegstions (you are most likely ratelimited).")
